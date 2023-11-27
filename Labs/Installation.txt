@@ -1,0 +1,5 @@
+1. Flex Windows [Lex and Yacc]
+
+2. Git Bash Git-2.41.0-64-bit
+
+3. mingw64
